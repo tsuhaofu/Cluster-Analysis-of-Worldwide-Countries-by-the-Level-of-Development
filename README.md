@@ -37,7 +37,7 @@ The clusters identified distinct groups of countries:
 - **Cluster 3 (Underdeveloped Countries)**: High child mortality, low GDP per capita, and low life expectancy.
 
 
-## Summary
+## Conclusion
 The analysis revealed that socio-economic and health indicators like child mortality, per capita GDP, and life expectancy are key factors in distinguishing between different levels of country development. Both K-means and GMM effectively segmented the data into meaningful clusters, with GMM showing the highest precision due to its robust initialization and convergence properties. Hierarchical Clustering, though less effective in this high-dimensional setting, still provided valuable insights into broader groupings of countries. This study underscores the importance of using multiple clustering approaches to capture the complex dimensions of global development.
 
 
