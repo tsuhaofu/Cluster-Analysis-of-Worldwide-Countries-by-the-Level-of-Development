@@ -25,7 +25,7 @@ The dataset includes the following socio-economic and health welfare variables f
 
 ## Methods
 The project utilized the following clustering methods:
-1. **K-means**: Chose three clusters based on methods including the Elbow method and Average Silhouette Gap Statistics. K-means effectively segmented the data into three clusters representing developed, developing, and underdeveloped countries.
+1. **K-means**: Chose three clusters based on methods including the Elbow method, Average Silhouette and Gap Statistics. K-means effectively segmented the data into three clusters representing developed, developing, and underdeveloped countries.
 2. **Hierarchical Clustering**: Using methods like Complete, Average, Single, and Centroid, it was found that only Complete method maximized data segmentation. However, its results showed significant overlap and underperformance in high-dimensional data, leading to a decision to merge clusters. The two groups represent countries evolving from highly developing to developed, and from underdeveloped to lowly developing stages.
 3. **Gaussian Mixture Model (GMM)**: To enhance comparison with other models, a mixture of three multivariate normal distributions was used. The results closely resembled those of K-means but with improved precision due to better initial convergence from using K-means for initialization.
 
