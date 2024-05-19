@@ -1,4 +1,4 @@
-Cluster Analysis of Worldwide Countries by the Level of Development
+# Cluster Analysis of Worldwide Countries by the Level of Development
 
 This project performs a cluster analysis on worldwide countries using various socio-economic and health welfare variables to identify and segment countries most in need of assistance. Using a dataset of 167 countries, this project aims to group countries by their development status, offering insights for international humanitarian and public health organizations.
 
