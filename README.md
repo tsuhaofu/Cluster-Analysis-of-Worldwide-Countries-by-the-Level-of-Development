@@ -6,7 +6,7 @@ This project performs a cluster analysis on worldwide countries using various so
 International humanitarian and public health organizations face challenges in efficiently allocating resources to countries most in need. Traditional classifications of countries into developed, developing, and underdeveloped categories are often insufficient to capture the nuanced realities of each country's situation. This project seeks to use socio-economic and health indicators to segment countries and better identify those in dire need of assistance.
 
 ## Data
-The [Country Dataset](https://www.kaggle.com/datasets/santhraul/country-data) includes the following socio-economic and health welfare variables for 167 countries:
+The [Country dataset](https://www.kaggle.com/datasets/santhraul/country-data) includes the following socio-economic and health welfare variables for 167 countries:
 - `country`: Country name
 - `child_mort`: Number of deaths per 1000 children under five
 - `exports`: Percentage of exports of goods and services per capita GDP
